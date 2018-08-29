@@ -14,4 +14,4 @@ We believe in fitness at Clear Measure. Programmers need to be strong - would yo
   <img alt="Build Status" src="https://cdn.images.dailystar.co.uk/dynamic/162/photos/261000/154261.jpg" width="400">
 </p>
 
-Get out and get big, then `git commit` your gainz!
+Get out, get big, and `git commit` your gainz!
